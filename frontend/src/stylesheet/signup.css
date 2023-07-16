@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@500&family=Mukta:wght@400;500;600;700;800&family=Nanum+Myeongjo&family=PT+Serif:ital@1&family=Poppins:wght@300&family=Roboto:wght@500&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+   
+    
+}
+input[type=text]{
+    text-indent: 12px;
+    display: block;
+}
+input[type=password]{
+    text-indent: 12px;
+    display: block;  
+}
+input[type=email]{
+    text-indent: 12px;
+    display: block;
+}
+input:focus{
+ outline: none;    
+}
